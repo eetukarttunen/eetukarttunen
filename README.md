@@ -7,5 +7,4 @@ I'm a second year Computer Science student from Joensuu, Finland! Here's some fa
 - 👯 I’m looking to collaborate on Android software development
 - 🤔 I’m looking for help with finding a job for summer 2021!
 - 📫 How to reach me: eetu.karttunen@outlook.com & https://www.linkedin.com/in/eetu-karttunen-912631160
-- ⚡ Fun fact: I love guitars & distance running
--->
+- ⚡ Fun facts: I love distance running & building guitars!
