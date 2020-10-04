@@ -1,8 +1,5 @@
 ### Hi there, I'm Eetu! 👋
 
-<!--
-**eetukarttunen/eetukarttunen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a second year Computer Science student from Joensuu, Finland! Here's some facts about me:
 
 - 🔭 I’m currently working on my university studies: Full Stack open -course & my own personal projects
