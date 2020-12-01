@@ -6,5 +6,5 @@ I'm a second year Computer Science student from Joensuu, Finland! Here's some fa
 - 🌱 I’m currently learning React, Redux, Node.js, MongoDB, GraphQL & TypeScript. I'm skilled in Java & SQL.
 - 👯 I’m looking to collaborate on Android software development
 - 🤔 I’m looking for help with finding a job for summer 2021!
-- 📫 How to reach me: eetu.karttunen@outlook.com & https://www.linkedin.com/in/eetu-karttunen-912631160
+- 📫 How to reach me: eetu.karttunen@outlook.com & www.linkedin.com/in/eetukarttunen
 - ⚡ Fun facts: I love distance running & building guitars!
