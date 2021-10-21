@@ -12,7 +12,7 @@ I'm a third year Computer Science student from Joensuu, Finland! Here's some fac
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eetukarttunen)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>informational?style=flat)
+![](https://img.shields.io/endpoint?url=<URL>&style<blue>)
 
 
 
