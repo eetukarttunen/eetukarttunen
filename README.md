@@ -10,9 +10,7 @@ I'm a third year Computer Science student from Joensuu, Finland! Here's some fac
 - 📫 You can contact me: eetu.karttunen@outlook.com & www.linkedin.com/in/eetukarttunen
 - ⚡ Fun facts: I also love distance running & building guitars!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eetukarttunen)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://img.shields.io/endpoint?url=<URL>&style<blue>)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 
