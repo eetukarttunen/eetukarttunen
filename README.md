@@ -1,8 +1,6 @@
 ## About me
 
-I'm a third year Computer Science (BSc & MSc) student from Joensuu, Finland. I'm currently writing my bachelor’s thesis, and taking the final courses of the degree. My favourite topics in computer science are: machine learning, neural networks and cyber security. I also love distance running & building guitars!
-
-📫 You can contact me: eetu.karttunen@outlook.com & www.linkedin.com/in/eetukarttunen
+I'm a third year Computer Science (BSc & MSc) student from Joensuu, Finland. I'm currently writing my bachelor’s thesis, and taking the final courses of the degree. My favourite topics in computer science are: machine learning, neural networks and cyber security. I also love distance running & building guitars! You can contact me: eetu.karttunen@outlook.com & www.linkedin.com/in/eetukarttunen
 
 ### Work experience in the following technologies:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -12,7 +10,7 @@ I'm a third year Computer Science (BSc & MSc) student from Joensuu, Finland. I'm
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-#### I'm also skilled in:
+### I'm also skilled in:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
