@@ -1,4 +1,4 @@
-### Hi there, I'm Eetu! 👋
+## Hi there, I'm Eetu! 👋
 
 I'm a third year Computer Science student from Joensuu, Finland! Here's some facts about me:
 
