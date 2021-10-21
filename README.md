@@ -10,6 +10,7 @@ I'm a third year Computer Science student from Joensuu, Finland! Here's some fac
 - 📫 You can contact me: eetu.karttunen@outlook.com & www.linkedin.com/in/eetukarttunen
 - ⚡ Fun facts: I also love distance running & building guitars!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eetukarttunen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eetukarttunen)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
