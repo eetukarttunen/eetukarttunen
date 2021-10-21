@@ -1,6 +1,6 @@
 ## About me
 
-I'm a third year Computer Science (BSc & MSc) student from Joensuu, Finland. I'm currently writing my bachelor’s thesis, and taking the final courses of the degree. My favourite topics in computer science are: machine learning, neural networks and cyber security. I also love distance running & building guitars! 
+I'm a third year Computer Science (BSc & MSc) student from Joensuu, Finland. I'm currently writing my bachelor’s thesis, and taking the final courses of the degree. My favourite topics in computer science are: machine learning, neural networks and cyber security. I study psychology and economics as minors. I also love distance running & building guitars! 
 
 You can contact me: eetu.karttunen@outlook.com & www.linkedin.com/in/eetukarttunen
 
