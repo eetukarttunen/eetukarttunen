@@ -1,4 +1,4 @@
-## About me
+## About me!
 
 I'm a third year Computer Science (BSc & MSc) student from Joensuu, Finland. I'm currently writing my bachelor’s thesis, and taking the final courses of the degree. My favourite topics in computer science are: machine learning, neural networks and cyber security. I also study psychology and economics as minors. I also love distance running & building guitars! 
 
