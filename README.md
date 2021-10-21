@@ -12,6 +12,6 @@ I'm a third year Computer Science student from Joensuu, Finland! Here's some fac
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eetukarttunen)](https://github.com/anuraghazra/github-readme-stats)
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<React>&color=<blue>
+https://img.shields.io/static/v1?label=<LABEL>&message=React&color=<blue>
 
 
