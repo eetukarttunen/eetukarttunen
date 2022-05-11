@@ -1,8 +1,6 @@
 ## About me!
 
-I'm a third year Computer Science student from Joensuu, Finland. I am currently studying for a computer science master’s degree and working as a Data Engineer. 
-
-My favourite topics in computer science are: software development, machine learning and cyber security. I also love distance running & building guitars! 
+I'm a third year Computer Science student from Joensuu, Finland. I am currently studying for a computer science master’s degree and working as a Data Engineer. My favourite topics in computer science are: software development, machine learning and cyber security. I also love distance running & building guitars! 
 
 ### Work experience in the following technologies:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
