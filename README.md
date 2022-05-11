@@ -2,8 +2,6 @@
 
 I'm a third year Computer Science student from Joensuu, Finland. I am currently studying for a computer science master’s degree and working as a Data Engineer. My favourite topics in computer science are: software development, machine learning and cyber security. In addition to studying computer science, I also study psychology. I also love distance running & building guitars! 
 
-You can contact me: eetu.karttunen@outlook.com & www.linkedin.com/in/eetukarttunen
-
 ### Work experience in the following technologies:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -26,4 +24,4 @@ Wherescape RED, Wherescape 3D, Power BI & Snowflake
 
 [1]:https://www.linkedin.com/in/eetukarttunen/
 [2]: https://t.me/eetukarttunen
-[3]: mailto:eetu.karttunen@outlook.com
+[3]: mailto:eetu.a.karttunen@gmail.com
