@@ -1,6 +1,6 @@
 ## About me!
 
-I'm a 4th year Computer Science student from Joensuu, Finland. I am currently working as a Software Developer at Meita. My favourite topics in computer science are: machine learning, software development and cyber security. I also love distance running & building guitars! 
+I'm a 4th year IT student from Joensuu, Finland. I am currently working as a Software Developer at Meita. My favourite topics in computer science are: machine learning, software development and cyber security. I also love distance running & building guitars! 
 
 ### Work experience in the following technologies:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
