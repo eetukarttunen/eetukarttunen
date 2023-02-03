@@ -7,7 +7,7 @@ I'm a 4th year IT student from Joensuu, Finland. I am currently working as a Sof
 ### CMS
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white])
-<img src="https://seekvectorlogo.com/wp-content/uploads/2018/11/liferay-vector-logo.png" alt="alt text" width="100" />
+![Liferay]([https://img.shields.io/badge/-Liferay-blue](https://www.liferay.com/))
 
 ![Alt text](liferay.png)
 
