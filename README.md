@@ -38,7 +38,7 @@ I'm a 4th year IT student from Joensuu, Finland. I am currently working as a Sof
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
 
 
-### Data Engineer work experience in the following technologies:
+### Data engineering & data modeling
 <div style="display: inline-block">
 <img src="https://img.shields.io/badge/-WhereScape%20RED-red" height="28" />
 <img src="https://img.shields.io/badge/-WhereScape%203D-blue" height="28" />
