@@ -26,6 +26,14 @@ I'm a 4th year IT student from Joensuu, Finland. I am currently working as a Sof
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
+### Data engineering & data modeling
+<div style="display: inline-block">
+<img src="https://img.shields.io/badge/-WhereScape%20RED-red" height="28" />
+<img src="https://img.shields.io/badge/-WhereScape%203D-blue" height="28" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/-Snowflake-blue" height="28" />
+</div>
+
 ### Other
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,15 +44,6 @@ I'm a 4th year IT student from Joensuu, Finland. I am currently working as a Sof
 ![Android studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=LaTeX&logoColor=white) 
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
-
-
-### Data engineering & data modeling
-<div style="display: inline-block">
-<img src="https://img.shields.io/badge/-WhereScape%20RED-red" height="28" />
-<img src="https://img.shields.io/badge/-WhereScape%203D-blue" height="28" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/-Snowflake-blue" height="28" />
-</div>
 
 ### Contact me
 [![image](https://user-images.githubusercontent.com/72581705/144093004-9ed6b658-c668-4673-91ab-37374d838d5d.png)][1] [![icons8-telegram-app-48 (1)](https://user-images.githubusercontent.com/72581705/144093652-4659db15-2278-47d1-817d-d68449f62296.png)][2] [![icons8-gmail-48](https://user-images.githubusercontent.com/72581705/149047734-f01f9f63-62da-41cf-833e-d18a6ac5a823.png)][3]
