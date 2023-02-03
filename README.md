@@ -7,7 +7,9 @@ I'm a 4th year IT student from Joensuu, Finland. I am currently working as a Sof
 ### CMS
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white])
-![Alt text](liferay.png | width=100)
+<div style="width:50px; height:50px">
+![Alt text](liferay.png)
+</div>
 
 ### Frontend
 
