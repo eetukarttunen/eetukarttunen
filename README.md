@@ -22,9 +22,9 @@ I'm a 4th year IT student from Joensuu, Finland. I am currently working as a Sof
 ### Backend
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Other
 
@@ -33,8 +33,7 @@ I'm a 4th year IT student from Joensuu, Finland. I am currently working as a Sof
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Android studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) 
+![Android studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white) 
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=LaTeX&logoColor=white) 
@@ -43,6 +42,16 @@ I'm a 4th year IT student from Joensuu, Finland. I am currently working as a Sof
 
 ### Data Engineer work experience in the following technologies:
 Wherescape RED, Wherescape 3D, Power BI & Snowflake
+https://img.shields.io/badge/-WhereScape%20RED-red
+https://img.shields.io/badge/-WhereScape%203D-blue
+https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
+https://img.shields.io/badge/-Snowflake-blue
+
+<img src="https://img.shields.io/badge/-WhereScape%20RED-red" height="28" />
+<img src="https://img.shields.io/badge/-WhereScape%203D-blue" height="28" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/-Snowflake-blue" height="28" />
+
 
 ### Contact me
 [![image](https://user-images.githubusercontent.com/72581705/144093004-9ed6b658-c668-4673-91ab-37374d838d5d.png)][1] [![icons8-telegram-app-48 (1)](https://user-images.githubusercontent.com/72581705/144093652-4659db15-2278-47d1-817d-d68449f62296.png)][2] [![icons8-gmail-48](https://user-images.githubusercontent.com/72581705/149047734-f01f9f63-62da-41cf-833e-d18a6ac5a823.png)][3]
