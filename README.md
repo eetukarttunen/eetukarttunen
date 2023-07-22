@@ -1,6 +1,6 @@
 ## About me!
 
-I'm a 2nd year IT master's student from Joensuu, Finland. I am currently working as a Software Developer at Meita. My favourite topics in computer science are: machine learning, software development and cyber security. I also love distance running & building guitars! 
+I'm a 2nd year IT master's student from Joensuu, Finland. I am currently working as a CMS Specialist & Developer at Meita. My favourite topics in computer science are: machine learning, software development and cyber security. I also love distance running & building guitars! 
 
 ### Work experience in the following technologies:
 
