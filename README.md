@@ -1,6 +1,6 @@
 ## About me!
 
-I'm a 2nd year Cyber Security-focused master's student from Joensuu, Finland. My favourite topics in IT are: cyber security and machine learning. I also love distance running & building guitars! 
+I'm a 2nd year Cyber Security-focused master's student from Joensuu, Finland. I enjoy developing useful everyday apps for my everyday usages & capturing flags of cyber security challenges :) . I also love distance running & building guitars! 
 
 ### Work experience in the following technologies:
 
