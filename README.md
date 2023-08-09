@@ -1,6 +1,6 @@
 ## About me!
 
-I'm a 2nd year IT master's student from Joensuu, Finland. I am currently working as a CMS Specialist & Developer at Meita. My favourite topics in IT are: cyber security and machine learning. I also love distance running & building guitars! 
+I'm a 2nd year Cyber Security-focused master's student from Joensuu, Finland. My favourite topics in IT are: cyber security and machine learning. I also love distance running & building guitars! 
 
 ### Work experience in the following technologies:
 
