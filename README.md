@@ -51,4 +51,4 @@ I'm a 2nd year Cyber Security-focused master's student from Joensuu, Finland. I 
 
 [1]:https://www.linkedin.com/in/eetukarttunen/
 [2]: https://t.me/eetukarttunen
-[3]: mailto:eetu.a.karttunen@gmail.com
+[3]: mailto:eetu.karttunen@outlook.com
