@@ -1,6 +1,7 @@
 ## About me!
 
-I'm a 2nd year Cyber Security-focused master's student from Joensuu, Finland. I enjoy developing useful everyday apps for my everyday usages . I also love distance running & building guitars! 
+
+Full-Stack Developer, Cyber Security enthusiast, and soon-to-be M.Sc. in Computer Science from Joensuu, Finland. I enjoy developing useful everyday apps for my everyday usages. I also love distance running & building guitars! 
 
 ### Work experience in the following technologies:
 
@@ -35,14 +36,22 @@ I'm a 2nd year Cyber Security-focused master's student from Joensuu, Finland. I 
 <img src="https://img.shields.io/badge/-Snowflake-blue" height="28" />
 </div>
 
-### Other
+### Cloud & Container orchestration
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Database stuff
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=LaTeX&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Other
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
 
 ### Contact me
