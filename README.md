@@ -42,8 +42,8 @@ Full-Stack Developer, Cyber Security enthusiast, and soon-to-be M.Sc. in Compute
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
-![Robot Framework](https://a11ybadges.com/badge?logo=robotframework)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
+![Robot Framework](https://a11ybadges.com/badge?logo=robotframework)
 
 ### Contact me
 [![image](https://user-images.githubusercontent.com/72581705/144093004-9ed6b658-c668-4673-91ab-37374d838d5d.png)][1] [![icons8-telegram-app-48 (1)](https://user-images.githubusercontent.com/72581705/144093652-4659db15-2278-47d1-817d-d68449f62296.png)][2] [![icons8-gmail-48](https://user-images.githubusercontent.com/72581705/149047734-f01f9f63-62da-41cf-833e-d18a6ac5a823.png)][3]
