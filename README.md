@@ -5,12 +5,6 @@ Full-Stack Developer, Cyber Security enthusiast, and soon-to-be M.Sc. in Compute
 
 ### Work experience in the following technologies:
 
-### CMS
-
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-<img src="https://img.shields.io/badge/-Liferay-blue" height="28" />
-
-
 ### Frontend
 
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -27,14 +21,6 @@ Full-Stack Developer, Cyber Security enthusiast, and soon-to-be M.Sc. in Compute
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-
-### Data engineering & data modeling
-<div style="display: inline-block">
-<img src="https://img.shields.io/badge/-WhereScape%20RED-red" height="28" />
-<img src="https://img.shields.io/badge/-WhereScape%203D-blue" height="28" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/-Snowflake-blue" height="28" />
-</div>
 
 ### Cloud & Container orchestration
 
