@@ -29,6 +29,14 @@ Full-Stack Developer, Cyber Security enthusiast, and soon-to-be M.Sc. in Compute
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+### Data engineering & data modeling
+<div style="display: inline-block">
+<img src="https://img.shields.io/badge/-WhereScape%20RED-red" height="28" />
+<img src="https://img.shields.io/badge/-WhereScape%203D-blue" height="28" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/-Snowflake-blue" height="28" />
+</div>
+
 ### CMS
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 <img src="https://img.shields.io/badge/-Liferay-blue" height="28" />
