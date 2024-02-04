@@ -1,7 +1,7 @@
 ## About me!
 
 
-Full-Stack Developer, Cyber Security enthusiast, and soon-to-be M.Sc. in Computer Science from Joensuu, Finland. I enjoy developing useful everyday apps for my everyday usages. I also love distance running & building guitars! 
+Full-Stack Developer, Cyber Security enthusiast, and soon-to-be M.Sc. in Computer Science from Joensuu, Finland. I enjoy developing useful everyday apps for my everyday usages. I also love weightlifting, distance running & building guitars! 
 
 ### Work experience in the following technologies:
 
