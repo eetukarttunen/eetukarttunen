@@ -1,3 +1,3 @@
 Full-Stack Developer, Cyber Security enthusiast, and M.Sc. in Computer Science
 
-<!--![ietu](https://www.hackthebox.com/badge/image/1605342)-->
+{{< image src="https://www.hackthebox.eu/badge/image/1605342" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
